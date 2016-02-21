@@ -41,7 +41,7 @@
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LvI-RV-I9x">
                                 <rect key="frame" x="250" y="133" width="100" height="30"/>
-                                <state key="normal" title="Press Me"/>
+                                <state key="normal" title="TL was here"/>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
